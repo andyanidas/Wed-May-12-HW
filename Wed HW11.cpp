@@ -20,6 +20,8 @@ int main(){
 		cout<<"Saturday";
 	}else if (weekday=='7'){
 		cout<<"Sunday";
+	}else{
+		cout<<"You have entered inviled input";
 	}
 	
 
